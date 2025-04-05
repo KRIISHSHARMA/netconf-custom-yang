@@ -48,7 +48,7 @@ module example-sports {
   }
 }
 ```
-- ***you can also use yanglint to check  validating above yang file*** 
+- ***you can also use yanglint for validating above yang file*** 
 
 3. **Install YANG Module into Sysrepo** : `sudo sysrepoctl -i example-sports.yang`
 
